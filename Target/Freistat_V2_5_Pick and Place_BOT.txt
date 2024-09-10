@@ -1,0 +1,48 @@
+*Pick And Place List
+*ArtikelNo=
+*Revision=
+*Company=
+*Author=
+*Tel=
+*Fax=
+*eMail=
+*
+*Project=Freistat_HBa_V2_5
+*ArticleNo=
+*RevisionNo=
+*Variant=<alle Bauteile>
+*PCB=<alle Bauteile>
+*Date=28. August 2024 13:51h
+*CreatedBy=TARGET 3001! V31 design station 31.9.0.93
+*Comment1=
+*Comment2=
+*Comment3=
+*Comment4=
+*Comment5=
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*PckOrigin=
+*Rotation in degree (0-360, math. pos.)
+*Selection=SMD only, Bottom side only
+*
+*No,"Value/Spec/Package","X","Y","Rotation",Side,"Name"
+*---------------------------------------------------------------------------------------
+1,"220n//0402","18.65","13.57","135.0",Bot,"C2"
+2,"470n//0402","29.53","8.65","315.0",Bot,"C3"
+3,"4u7//0402","20.40","15.32","135.0",Bot,"C5"
+4,"470n//0402","22.54","9.97","45.0",Bot,"C6"
+5,"470n//0402","27.46","15.48","45.0",Bot,"C7"
+6,"470n//0402","19.51","14.43","135.0",Bot,"C8"
+7,"470n//0402","20.41","6.10","225.0",Bot,"C9"
+8,"10u//0402","19.54","6.97","225.0",Bot,"C10"
+9,"10u//0402","24.62","7.16","315.0",Bot,"C11"
+10,"100n//0402","31.68","14.67","225.0",Bot,"C12"
+11,"10u//0402","21.52","5.46","225.0",Bot,"C13"
+12,"100n//0402","28.48","14.46","45.0",Bot,"C14"
+13,"10u//0402","8.41","14.53","0.0",Bot,"C15"
+14,"100n//0402","8.41","15.72","0.0",Bot,"C16"
+15,"1u//0402","26.37","11.18","225.0",Bot,"C17"
+16,"AD5941//QFN48_HB","23.98","10.99","45.0",Bot,"IC1"
+17,"LMP7721//SOIC8_WB3,9_P1,27","8.41","11.35","90.0",Bot,"IC2"
+18,"100R//0402","5.87","15.72","180.0",Bot,"R7"

@@ -1,0 +1,42 @@
+*Pick And Place List
+*ArtikelNo=
+*Revision=
+*Company=
+*Author=
+*Tel=
+*Fax=
+*eMail=
+*
+*Project=Freistat_HBa_V2_5
+*ArticleNo=
+*RevisionNo=
+*Variant=<alle Bauteile>
+*PCB=<alle Bauteile>
+*Date=28. August 2024 13:49h
+*CreatedBy=TARGET 3001! V31 design station 31.9.0.93
+*Comment1=
+*Comment2=
+*Comment3=
+*Comment4=
+*Comment5=
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*PckOrigin=
+*Rotation in degree (0-360, math. pos.)
+*Selection=SMD only, Top side only
+*
+*No,"Value/Spec/Package","X","Y","Rotation",Side,"Name"
+*---------------------------------------------------------------------------------------
+1,"220p  CTIA1//0402","25.40","17.14","45.0",Top,"C1"
+2,"470n//0402","23.49","16.36","135.0",Top,"C4"
+3,"Würth//MALE-HEADER_SMD_16POL","42.23","11.43","270.0",Top,"CON1"
+4,"BLM21AF121SN1D//0805","17.83","14.37","225.0",Top,"FB1"
+5,"BLM21AF121SN1D//0805","15.80","16.40","225.0",Top,"FB2"
+6,"GND//LÖTJUMPER 2-FACH 1,27 OPEN","18.97","10.16","135.0",Top,"J1"
+7,"200R//0402","32.52","7.87","0.0",Top,"R1"
+8,"10M RTIA2//0402","24.50","18.07","45.0",Top,"R2"
+9,"2k TRIA1//0402","37.12","12.01","90.0",Top,"R3"
+10,"100R//0402","48.10","15.88","0.0",Top,"R4"
+11,"100R//0402","48.10","14.61","0.0",Top,"R5"
+12,"100R//0402","48.10","13.34","0.0",Top,"R6"
