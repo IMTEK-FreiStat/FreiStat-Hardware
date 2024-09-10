@@ -1,0 +1,36 @@
+CAM-Ausgabe für Projekt / CAM Output for Project Freistat_HBa_V2_5.T3001
+Ausgabe am / Output Date 05. Sep 2024, 11:31h
+Projekt erzeugt mit / Project created with TARGET 31.9.0.93 design station
+Ausgabe erzeugt mit / Output created with TARGET 3001! V31.9.0.93
+Projekt von TARGET NC-Edition: Kommerzielle Nutzung ist strafbar!
+Project created with TARGET NC edition: Commercial use will be punished!
+Lieferanschrift / Delivery address:
+  
+  
+  
+  D- 
+  Tel: 
+  FAX: 
+  eMail: 
+Größe der Platine / Size of PCB: 50,8 mm x 22,86 mm
+Dicke der Platine / Thickness of PCB: 1,6 mm
+KupferDicke / Copper thickness: 35 µm
+
+Beschreibung der erzeugten Dateien / Description of generated files:
+
+Freistat_HBa_V2_5.Top = 16 = Kupfer oben / Copper top L1   ( *.Top )
+Freistat_HBa_V2_5.L2 = 13 = Kupfer innen / Copper inside L2    [Ebene 13]   ( *.L# )
+Freistat_HBa_V2_5.L3 = 10 = Kupfer innen / Copper inside L3    [Ebene 10]   ( *.L# )
+Freistat_HBa_V2_5.Bot = 2 = Kupfer unten / Copper bottom L4   ( *.Bot )
+Freistat_HBa_V2_5.Tool = Bohrerliste / Drill tool list
+Freistat_HBa_V2_5.Drill = Durchkontaktierte Bohrungen / Plated through drills
+Freistat_HBa_V2_5.Outline = 23 = Platinen-Umriss / PCB outline   ( *.Outline )
+Freistat_HBa_V2_5.StopTop = 18 = Lötstoppmaske oben / Solder stop top   ( *.StopTop )
+Freistat_HBa_V2_5.StopBot = 4 = Lötstoppmaske unten / Solder stop bottom   ( *.StopBot )
+Freistat_HBa_V2_5.PosiTop = 21 = Bestückungsdruck oben / Silk screen top   ( *.PosiTop )
+Freistat_HBa_V2_5.PosiBot = 7 = Bestückungsdruck unten / Silk screen bottom   ( *.PosiBot )
+Freistat_HBa_V2_5.PasteTop = 19 = Lötpaste oben / Paste top   ( *.PasteTop )
+Freistat_HBa_V2_5.PasteBot = 5 = Lötpaste unten / Paste bottom   ( *.PasteBot )
+
+
+Achtung: Dünnste Bahn (Track too thin) ist kleiner 0,150mm: (0,100 bei 30,559375 | 10,95375) auf Ebene 21
