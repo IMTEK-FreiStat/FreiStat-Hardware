@@ -1,1 +1,0 @@
-The PCB was designed using TARGET 3001! (https://www.ibfriedrich.com/en/index.html)
