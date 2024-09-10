@@ -20,8 +20,7 @@ This repository contains the schematic and layout files for the **FreiStat_V2** 
 
 The main directory contains the schematics and board layout as PDF.
 
-The PCB was designed using [TARGET 3001!](https://www.ibfriedrich.com/en/index.html).
-<!-- You can found both the Target project and the Gerber files for reproduction of the PCB in the respective folders. -->
+The PCB was designed using [TARGET 3001!](https://www.ibfriedrich.com/en/index.html). You can found both the Target project and the Gerber files for reproduction of the PCB in the respective folders.
 
 
 ### Contact 
